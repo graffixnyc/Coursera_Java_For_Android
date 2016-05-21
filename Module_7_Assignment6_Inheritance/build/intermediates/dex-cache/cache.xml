@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.0_15120abc07f8c1e8fe04194c5ea6c674321b57bd/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/android-studio/gradle/m2repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.3.2_4684b38b3a8eff6af677ada35129dd5bd7020674/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.1_9493c0176c57ad50ef3849e0bb5d97f54a3f6158/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/libs/mobilecloud.handin-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/transforms/dex/debug/folders/1000/2/mobilecloud.handin-1.0.0_39b7a3ec4ca5e30e53d51d6f283c854901397981/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.2/7a87d845ad3a155297e8f67d9008f4c1e5656b71/commons-beanutils-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7a87d845ad3a155297e8f67d9008f4c1e5656b71">
+        <dex dex="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-beanutils-1.9.2_c1f3d082cf410a53ea12c70b4203d036c8e166be/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/android-studio/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_ac3045f7b1d67d48976bfb86d92f2c873f7ebd6d/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_e38c5bf23d8358f34948cbaf43135331b60c0b0c/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6ef473b7d265d5338670b2641529efb8b450adb1">
+        <dex dex="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3d5a9edc363ac6c3b31db3866615f157dcaa4e90/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_e288587e2f36bc3471a6c4436b55b276a52f376c/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/.gradle/caches/modules-2/files-2.1/com.github.davidmarquis/fluent-interface-proxy/1.3.0/519c459c771e2554437649a32b56e27a83ba66dc/fluent-interface-proxy-1.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="519c459c771e2554437649a32b56e27a83ba66dc">
+        <dex dex="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/transforms/dex/debug/folders/1000/10/fluent-interface-proxy-1.3.0_649b36786c814e770c4c2c04815c0a065efc2146/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/android-sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_e00be113816421e63251d5c10bf211c6e67d57f6/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/android-studio/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-17.0_3e2a07d09adfd9debcb0e669dbc3a1718e36b51f/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_630c2b6dd010694a1797dbb56ac3dcf12120ec3e/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c646198f72d3e0d78c021a13bb248f32bf9bbaae">
+        <dex dex="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b2a7fed1f27b899b2627472b48a12da0e1dc4b25/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.1/761ea405b9b37ced573d2df0d1e3a4e0f9edc668/commons-collections-3.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="761ea405b9b37ced573d2df0d1e3a4e0f9edc668">
+        <dex dex="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-collections-3.2.1_289033ea480de3a235fe084c123e2e0bf7ea475d/classes.dex" />
+    </item>
+
+</items>

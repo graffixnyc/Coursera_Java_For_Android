@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    density="560dpi"
+    format="7"
+    timestamp="425856717863488" >
+
+    <task
+        name="javac"
+        duration="267" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="183" />
+    <task
+        name="verifier"
+        duration="12" />
+
+    <artifact
+        location="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="425856717863488" >
+        <artifact
+            location="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_7_Assignment6_Inheritance/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

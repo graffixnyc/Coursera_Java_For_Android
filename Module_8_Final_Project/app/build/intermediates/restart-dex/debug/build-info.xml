@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    density="560dpi"
+    format="7"
+    timestamp="380582526941119" >
+
+    <task
+        name="javac"
+        duration="139" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="30" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_8_Final_Project/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+
+    <build timestamp="379963369311329" >
+        <artifact
+            location="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_8_Final_Project/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="380582526941119" >
+        <artifact
+            location="/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_8_Final_Project/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

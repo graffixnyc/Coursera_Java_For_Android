@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_2068fbacec408fedd5765b5a1ca8255fd6af0153/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/Downloads/Assignment2/app/libs/mobilecloud.handin-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/2/mobilecloud.handin-1.0.0_b6cbd31f8b52f9c0217e6ff8137f28f094e2180d/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ba24cd8f79be5842d2498198d593bea3325b7542">
+        <dex dex="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1ef0681a8e7f14aebd058a2e4d07df8f37a6a77a/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.1_9201d82887cd1653103888bc32dfdda61bae186a/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/android-studio/gradle/m2repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.3.2_4684b38b3a8eff6af677ada35129dd5bd7020674/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_167f34137a2c1d7ddedc942a99e7638083501c8e/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b2fd96406651e9a588314891f0b1a7c2c3ff0d26">
+        <dex dex="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_181440eac24ea86b24213e3afbf05b41e4b29478/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_3a122ce1956fa666de07c81ea1add7153f223ca6/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/android-sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_e00be113816421e63251d5c10bf211c6e67d57f6/classes.dex" />
+    </item>
+    <item
+        jar="/home/graffixnyc/android-studio/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="/home/graffixnyc/Downloads/Assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-17.0_3e2a07d09adfd9debcb0e669dbc3a1718e36b51f/classes.dex" />
+    </item>
+
+</items>

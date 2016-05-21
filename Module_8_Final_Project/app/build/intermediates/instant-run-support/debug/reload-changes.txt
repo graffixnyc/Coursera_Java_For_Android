@@ -1,0 +1,4 @@
+CHANGED,/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_8_Final_Project/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mooc/vandy/java4android/calculator/logic/Divide$override.class
+CHANGED,/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_8_Final_Project/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_8_Final_Project/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mooc/vandy/java4android/calculator/logic/Multiply$override.class
+CHANGED,/home/graffixnyc/Downloads/Coursera_Java_For_Android/Module_8_Final_Project/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mooc/vandy/java4android/calculator/logic/Subtract$override.class
